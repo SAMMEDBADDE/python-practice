@@ -1,0 +1,6 @@
+##Hello I'am sample file here.
+##My purpose was to show you linux command which helps you write inside your file which is nano.
+
+a = 12
+if a > 0:
+    print("a is positive")
