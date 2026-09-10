@@ -1,0 +1,4 @@
+b = 13
+if b % 2 != 0:
+    print("The number is Odd")
+
